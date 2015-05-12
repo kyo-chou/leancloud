@@ -1,1 +1,1 @@
-# leancloud
+Cloud code project for leancloud. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
